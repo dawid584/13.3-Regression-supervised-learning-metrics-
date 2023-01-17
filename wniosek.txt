@@ -1,0 +1,1 @@
+Wysokość  temperatury wpływa na ilośc wypożyczeń rowerów. Najwięcej rowerów wypożycanych jest latem , wzrost wypożyczeń zaczyna sie od wiosny do jesieni. Nie wielki wpływ ma też prędkość wiatru.
